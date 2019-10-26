@@ -1,4 +1,4 @@
-# DiA-Twist-Lock-V2
+# DiA Twist-Lock V2
 Twist-Lock mount for stuff
 
 Fusion360 source file available for mounts.
